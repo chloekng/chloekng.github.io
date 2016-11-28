@@ -94,7 +94,6 @@ body {
 	-moz-transition: 0.7s;
 	-o-transition: 0.7s;
 	position: fixed;
-	overflow: scroll;
 }
 
 #maintext {
