@@ -278,11 +278,11 @@ body {
 
 
 .description {
-	transform: translate(-25%, 40%);
-	-webkit-transform: translate(-25%, 40%);
-	-moz-transform: translate(-25%, 40%);
-	-ms-transform: translate(-25%, 40%);
-	-o-transform: translate(-25%, 40%);
+	transform: translate(-30%, 25%);
+	-webkit-transform: translate(-30%, 25%);
+	-moz-transform: translate(-30%, 25%);
+	-ms-transform: translate(-30%, 25%);
+	-o-transform: translate(-30%, 25%);
 	width: 40%;
 	display: inline-block;
 	float: right;
@@ -292,19 +292,19 @@ body {
 
 
 #eggpuff-description {
-	transform: translate(-30%, 80%);
-	-webkit-transform: translate(-30%, 80%);
-	-moz-transform: translate(-30%, 80%);
-	-ms-transform: translate(-30%, 80%);
-	-o-transform: translate(-30%, 80%);
+	transform: translate(-35%, 60%);
+	-webkit-transform: translate(-35%, 60%);
+	-moz-transform: translate(-35%, 60%);
+	-ms-transform: translate(-35%, 60%);
+	-o-transform: translate(-35%, 60%);
 }
 
 #pineapplebun-description {
-	transform: translate(-20%, 25%);
-	-webkit-transform: translate(-20%, 25%);
-	-moz-transform: translate(-20%, 25%);
-	-ms-transform: translate(-20%, 25%);
-	-o-transform: translate(-20%, 25%);
+	transform: translate(20%, 5%);
+	-webkit-transform: translate(20%, 5%);
+	-moz-transform: translate(20%, 5%);
+	-ms-transform: translate(20%, 5%);
+	-o-transform: translate(20%, 5%);
 
 }
 
@@ -317,11 +317,11 @@ body {
 }
 
 #frenchtoast-description {
-	transform: translate(-20%, 80%);
-	-webkit-transform: translate(-20%, 80%);
-	-moz-transform: translate(-20%, 80%);
-	-ms-transform: translate(-20%, 80%);
-	-o-transform: translate(-20%, 80%);
+	transform: translate(-20%, 40%);
+	-webkit-transform: translate(-20%, 40%);
+	-moz-transform: translate(-20%, 40%);
+	-ms-transform: translate(-20%, 40%);
+	-o-transform: translate(-20%, 40%);
 }
 
 #hammacaroni-description {
@@ -367,11 +367,11 @@ body {
 }
 
 #frenchtoast-description {
-	transform: translate(-30%, 70%);
-	-webkit-transform: translate(-30%, 70%);
-	-moz-transform: translate(-30%, 70%);
-	-ms-transform: translate(-30%, 70%);
-	-o-transform: translate(-30%, 70%);
+	transform: translate(-30%, 60%);
+	-webkit-transform: translate(-30%, 60%);
+	-moz-transform: translate(-30%, 60%);
+	-ms-transform: translate(-30%, 60%);
+	-o-transform: translate(-30%, 60%);
 }
 
 #hammacaroni-description {
@@ -384,20 +384,20 @@ body {
 }
 
 #pineapplebun-description {
-	transform: translate(-30%, 45%);
-	-webkit-transform: translate(-30%, 45%);
-	-moz-transform: translate(-30%, 45%);
-	-ms-transform: translate(-30%, 45%);
-	-o-transform: translate(-30%, 45%);
+	transform: translate(-30%, 25%);
+	-webkit-transform: translate(-30%, 25%);
+	-moz-transform: translate(-30%, 25%);
+	-ms-transform: translate(-30%, 25%);
+	-o-transform: translate(-30%, 25%);
 
 }
 
 #eggtart-description {
-	transform: translate(-40%, 60%);
-	-webkit-transform: translate(-40%, 60%);
-	-moz-transform: translate(-40%, 60%);
-	-ms-transform: translate(-40%, 60%);
-	-o-transform: translate(-40%, 60%);
+	transform: translate(-40%, 40%);
+	-webkit-transform: translate(-40%, 40%);
+	-moz-transform: translate(-40%, 40%);
+	-ms-transform: translate(-40%, 40%);
+	-o-transform: translate(-40%, 40%);
 }
 
 
