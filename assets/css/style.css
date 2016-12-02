@@ -83,7 +83,6 @@ body {
 	-webkit-transition: 0.7s;
 	-moz-transition: 0.7s;
 	-o-transition: 0.7s;
-	overflow: scroll;
 	height: 80%;
 }
 
